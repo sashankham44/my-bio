@@ -1,0 +1,138 @@
+body {
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px
+}
+
+h1 {
+  color: #00B8A9;
+  font-size: 90px;
+  line-height: 2;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #00B8A9;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.0rem;
+  padding-bottom: 10px;
+
+}
+
+h3{
+  color: #11999E;
+
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  background-color: #D7FBE8
+}
+
+.top-container {
+  background-color: #FEFDCA;
+  position: relative;
+  padding-top: 100px;
+
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  height: 10px;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+}
+
+.middle-container {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.bottom-container{
+background-color: #FFB4B4;
+padding: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin-top: 100px ;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  padding-top: 20px
+}
+
+.champ-img {
+  float: left;
+}
+h4 {
+  color: #5D5B6A;
+}
+.photo-img {
+  width: 160px;
+  float: right;
+}
+
+.contact-message {
+
+}
+
+p {
+  color: #5D5B6A;
+}
+
+.btn {
+	box-shadow: 0px 1px 0px 0px #76c2e3;
+	background:linear-gradient(to bottom, #33bdef 5%, #11999E 100%);
+	background-color:#33bdef;
+	border-radius:12px;
+	border:1px solid #71a7c9;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #13219e 5%, #33bdef 100%);
+	background-color:#13219e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding-bottom: : 10px;
+  padding-top: 30px;
+}
